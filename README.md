@@ -1,5 +1,5 @@
-# Torrent
-libtorrent adds support for the WebTorrent protocol
+# libtorrent adds support for the WebTorrent protocol
+
 The vision of the WebTorrent project is to extend the BitTorrent protocol so that it becomes more web-friendly, allowing any browser to become a peer in the torrent network.
 
 That’s why I’m super excited that libtorrent – the engine that powers many of the most popular torrent clients including qBittorrent, Deluge, and many more – has added support for the WebTorrent protocol.
